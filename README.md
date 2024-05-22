@@ -25,3 +25,6 @@ Esse repositório foi criado apenas para listar alguns comenados docker básico
 - LISTAR REDES DOCKER </br>
    docker network ls </br>
 
+- CRIAR CONTAINER JÁ APONTADO PARA UMA REDE DOCKER </br>
+   docker run -p 3000:3000 --network nome-da-rede nome-da-imagem </br>
+
