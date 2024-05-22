@@ -31,3 +31,6 @@ Esse repositório foi criado apenas para listar alguns comenados docker básico
 - DETALHAR REDE DOCKER E LISTAR CONTAINERS CONECTADOS A ELA </br>
    docker network inspect nome-da-rede </br>
 
+- PARAR A EXECUÇÃO DE UM CONTAINER </br>
+   docker stop nome-ou-id-do-container </br>
+
