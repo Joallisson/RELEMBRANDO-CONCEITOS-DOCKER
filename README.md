@@ -13,3 +13,6 @@ Esse repositório foi criado apenas para listar alguns comenados docker básico
 - LISTAR TODAS AS IMAGENS </br>
    docker images </br>
 
+- CRIAR UM CONTAINER </br>
+   docker run -p 3000:3000 name-image </br>
+
