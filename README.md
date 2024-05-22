@@ -10,3 +10,6 @@ Esse repositório foi criado apenas para listar alguns comenados docker básico
 - LISTAR APENAS OS CONTAINERS EM EXECUÇÃO </br>
    docker ps </br>
 
+- LISTAR TODAS AS IMAGENS </br>
+   docker images </br>
+
