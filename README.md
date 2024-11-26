@@ -1,10 +1,10 @@
 #======================= PRICIPAIS COMANDOS ======================
-- CRIAR IMAGEM
-   docker build -t <nome-da-imagem> .
+- CRIAR IMAGEM:  </br>
+   docker build -t <nome-da-imagem> .  </br>
   
-- CRIAR CONTAINER:
-  docker run -d -p <porta-do-host>:<porta-do-container> --name <nome-do-container> <nome-da-imagem>
-#=================================================================
+- CRIAR CONTAINER: </br>
+  docker run -d -p <porta-do-host>:<porta-do-container> --name <nome-do-container> <nome-da-imagem>  </br>
+#=================================================================  </br>
 
 
 
