@@ -1,3 +1,14 @@
+#======================= PRICIPAIS COMANDOS ======================
+- CRIAR IMAGEM
+   docker build -t <nome-da-imagem> .
+  
+- CRIAR CONTAINER:
+  docker run -d -p <porta-do-host>:<porta-do-container> --name <nome-do-container> <nome-da-imagem>
+#=================================================================
+
+
+
+
 # RELEMBRANDO-CONCEITOS-DOCKER
 Esse repositório foi criado apenas para listar alguns comenados docker básico
 
